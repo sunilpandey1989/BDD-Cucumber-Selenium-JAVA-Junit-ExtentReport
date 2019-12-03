@@ -3,7 +3,7 @@ BDD-Cucumber-Selenium-JAVA-Junit-ExtentReport
 
 About The Project
 
-This project is BDD based Automation Framework. In backend, it is using JAVA and cucmber. For reporting we have used Extent Report.
+This project is BDD based Automation Framework. In backend, it is using JAVA and cucumber. For reporting we have used Extent Report.
 To maintain the Page Elements and their actions, we have used POM model to reduce maintainence.
 
 Getting Started
@@ -24,3 +24,4 @@ Contact
 Sunil Pandey - sunil19vip@yahoo.co.in
 
 Project Link: https://github.com/sunilpandey1989/BDD-Cucumber-Selenium-JAVA-Junit-ExtentReport
+
