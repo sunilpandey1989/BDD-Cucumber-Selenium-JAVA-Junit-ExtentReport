@@ -2,10 +2,12 @@
 BDD-Cucumber-Selenium-JAVA-Junit-ExtentReport
 
 About The Project
+
 This project is BDD based Automation Framework. In backend, it is using JAVA and cucmber. For reporting we have used Extent Report.
 To maintain the Page Elements and their actions, we have used POM model to reduce maintainence.
 
 Getting Started
+
 Prerequisites
 1. Apache Maven 3.6.1 and above is supported.
 2. Eclipse mars is needed.
@@ -20,4 +22,5 @@ Installation:
 Contact
 
 Sunil Pandey - sunil19vip@yahoo.co.in
+
 Project Link: https://github.com/sunilpandey1989/BDD-Cucumber-Selenium-JAVA-Junit-ExtentReport
